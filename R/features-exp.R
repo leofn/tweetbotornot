@@ -308,3 +308,4 @@ sentiment_nrc_trust <- function(x, lang) {
     nrc_dict[nrc_dict$sentiment == "trust", ]
   )
 }
+             
